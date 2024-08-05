@@ -10,6 +10,6 @@ Election terms are about six months, elections being held on the third Saturday 
 
 There are 2 separate elections at each election time: **Election for Parliament** and **Election for Prime Minister**.
 
-## Election for Parliament
+### Election for Parliament
 
 This vote is a standard vote, where voters pick one option. The percentage of the vote is applied as close as possible to the seats. So, if one party got 50% of the vote, they would get 50% of the seats, as accurately as possible. Only parties are allowed to run in the election for parliament. The seats won by a party are to be occupied by someone from the party, that the party appoints, who lasts the entire term in that seat until a new parliament is formed (unless they quit, which means the seat remains vacant and votes don't consider that seat).
