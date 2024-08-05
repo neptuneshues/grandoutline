@@ -1,3 +1,7 @@
+---
+description: (*)Constitutional Laws
+---
+
 # Departments
 
 Departments are organizations separate from the parliament that govern certain things. There are 3 types of departments:
