@@ -2,6 +2,7 @@
 
 * [Landing](README.md)
 * [Page](page.md)
+* [Housekeeping](housekeeping.md)
 
 ## Internal
 
