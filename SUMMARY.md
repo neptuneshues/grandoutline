@@ -9,9 +9,11 @@
 * [Parliament and PM](internal/parliament-and-pm.md)
 * [Saheok Monarch](internal/saheok-monarch/README.md)
   * [Monarchial Will](internal/saheok-monarch/monarchial-will.md)
+* [Court of Balance](internal/court-of-balance.md)
 * [Elections](internal/elections.md)
 * [Departments](internal/departments/README.md)
   * [ID of Education](internal/departments/id-of-education.md)
+  * [MD of IT](internal/departments/md-of-it.md)
 
 ## Lawbook
 
