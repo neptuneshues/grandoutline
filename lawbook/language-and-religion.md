@@ -1,3 +1,7 @@
+---
+description: Regular Law
+---
+
 # Language and Religion
 
-LAwbo
+1. The official language of Sahoki is English, the religious and formal language being Jiha.&#x20;

@@ -18,4 +18,5 @@
 ## Lawbook
 
 * [Lawbook Guide](lawbook/lawbook-guide.md)
+* [Identity of Sahoki](lawbook/identity-of-sahoki.md)
 * [Language and Religion](lawbook/language-and-religion.md)
