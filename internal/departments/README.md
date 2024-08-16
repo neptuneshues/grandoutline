@@ -33,4 +33,8 @@ Department members are appointed by the IDSD (Indepdendent Department of Saheok 
 
 An example of an RD would be the RDBS (Regulatory Department of Border Security).
 
+***
+
+Departments can organize themselves however they'd like, and so can have departments within itself.
+
 [^1]: 

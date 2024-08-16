@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Landing](README.md)
-* [Page](page.md)
 * [Housekeeping](housekeeping.md)
 
 ## Internal
@@ -13,7 +12,8 @@
 * [Elections](internal/elections.md)
 * [Departments](internal/departments/README.md)
   * [ID of Education](internal/departments/id-of-education.md)
-  * [MD of IT](internal/departments/md-of-it.md)
+  * [MD of IT](internal/departments/md-of-it/README.md)
+    * [Department of Branding](internal/departments/md-of-it/department-of-branding.md)
 
 ## Lawbook
 
