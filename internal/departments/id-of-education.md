@@ -21,6 +21,8 @@ layout:
 
 # ID of Education
 
+<figure><img src="../../.gitbook/assets/Sahoki Council Logos.png" alt="" width="188"><figcaption></figcaption></figure>
+
 This department governs laws in the lawbook that concern education. The laws are noted in the lawbook, and they also create the curriculum and manage its implementation. It works with educational institutes in Sahoki.
 
 Once a year,&#x20;
