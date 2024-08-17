@@ -37,4 +37,6 @@ An example of an RD would be the RDBS (Regulatory Department of Border Security)
 
 Departments can organize themselves however they'd like, and so can have departments within itself.
 
+A department can be created by the PM, and they can select which type it is. However, the CB (Court of Balance) can override the type if they deem the PM to be overstepping their power.
+
 [^1]: 
