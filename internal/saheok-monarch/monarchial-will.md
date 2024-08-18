@@ -12,4 +12,4 @@ This is the will of Hue regarding their reign as monarch.
 >
 > _Hue_
 >
-> _Last edited on August 16, 2024_
+> _Last edited on August 18, 2024_
