@@ -8,7 +8,7 @@ This is the will of Hue regarding their reign as monarch.
 
 ***
 
-> I kind of wrote the law to give myself a will but I don't know what to put here at the moment. Just crown Timothée Chalamet if I die or abdicate. However, if I die/abdicate in/from a foreign country other than the those in the British Commonwealth, dissolve the government in its entirety without question.
+> I kind of wrote the law to give myself a will but I don't know what to put here at the moment. Just crown Timothée Chalamet if I die or abdicate. However, if I die/abdicate in/from a foreign country other than the those in the British Commonwealth, dissolve the government in its entirety without question. If I die at the hands of Damien, please start a war in my name against him and his realms, as well as any others that ally or do business with him, and the ones that ally or do business with those.
 >
 > _Hue_
 >
