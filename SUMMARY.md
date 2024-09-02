@@ -2,6 +2,8 @@
 
 * [Landing](README.md)
 * [Housekeeping](housekeeping.md)
+* [gov.sk](https://gov.sk.87nt.de)
+* [Archives](https://www.appsheet.com/start/3c3c78c7-7d01-4b49-bbf4-07b199fc44bd)
 
 ## Internal
 
