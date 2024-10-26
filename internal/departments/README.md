@@ -39,4 +39,6 @@ Departments can organize themselves however they'd like, and so can have departm
 
 A department can be created by the PM, and they can select which type it is. However, the CB (Court of Balance) can override the type if they deem the PM to be overstepping their power.
 
+Departments can also be suspended, merged, etc under the power of the PM, but these actions can always be overrided by the CB (Court of Balance).
+
 [^1]: 
