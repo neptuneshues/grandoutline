@@ -17,7 +17,7 @@
   * [ID of Education](internal/departments/id-of-education.md)
   * [MD of IT](internal/departments/md-of-it/README.md)
     * [Department of Branding](internal/departments/md-of-it/department-of-branding.md)
-  * [DD of Citizenship](internal/departments/dd-of-citizenship.md)
+  * [Bureau of Citizenship (MDIT)](internal/departments/bureau-of-citizenship-mdit.md)
 
 ## Lawbook
 
