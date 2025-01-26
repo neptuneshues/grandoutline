@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1703585221767-52bc344f1801?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjExNzU3NjB8&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/inwhicheverformsahokiquote (1).png
 coverY: 0
 ---
 
