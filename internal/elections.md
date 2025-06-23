@@ -1,5 +1,5 @@
 ---
-description: (*)Constitutional Laws
+description: (*)Constitutional Laws, RD of Elections
 cover: >-
   https://images.unsplash.com/photo-1722353129214-df9638aab876?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4NzA5Nzh8&ixlib=rb-4.0.3&q=85
 coverY: 0

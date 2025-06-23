@@ -18,6 +18,7 @@
   * [MD of IT](internal/departments/md-of-it/README.md)
     * [Department of Branding](internal/departments/md-of-it/department-of-branding.md)
   * [Bureau of Citizenship (MDIT)](internal/departments/bureau-of-citizenship-mdit.md)
+  * [ID of Elections](internal/departments/id-of-elections.md)
 * [Military & Defence](internal/military-and-defence.md)
 
 ## Lawbook

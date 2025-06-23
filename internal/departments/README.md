@@ -6,7 +6,7 @@ description: (*)Constitutional Laws
 
 Departments are organizations separate from the parliament that govern certain things. There are 3 types of departments:
 
-1. [Directorial Department (DD)](#user-content-fn-1)[^1]
+1. Directorial Department (DD)
 2. Independent Department (ID)
 3. Regulatory Department (RD)
 4. Monarchial Department (MD)
@@ -27,7 +27,7 @@ Department members are appointed by the representative of Sahoki within IDSI (In
 
 ### Regulatory Department
 
-A regulatory department is a department that does not regulate laws but rather the enforcement of the laws it concerns. The laws will be made and changed by the parliament, but they make sure they are followed.
+A regulatory department is a department that does not regulate laws but rather the enforcement of the laws it concerns. The laws will be made and changed by the parliament, but they make sure they are followed. Regulatory departments can also&#x20;
 
 Department members are appointed by the IDSD (Indepdendent Department of Saheok Defense).
 
@@ -37,8 +37,8 @@ An example of an RD would be the RDBS (Regulatory Department of Border Security)
 
 Departments can organize themselves however they'd like, and so can have departments within itself.
 
+Any department can also include laws that they cannot edit. They therefore act as a regulator for those laws.
+
 A department can be created by the PM, and they can select which type it is. However, the CB (Court of Balance) can override the type if they deem the PM to be overstepping their power.
 
 Departments can also be suspended, merged, etc under the power of the PM, but these actions can always be overrided by the CB (Court of Balance).
-
-[^1]: 
