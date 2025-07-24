@@ -7,29 +7,33 @@ coverY: 0
 
 # Elections
 
-Election terms are about six months, elections being held on the third Saturday of August and February yearly. Elections should be announced and parties allowed to register and start campaigning 1 week prior. There should be allowed one day after the election date to count the votes and declare the winner, and a second day after that to form the parliament.
+Election terms are about six months, elections being held on the third Saturday of August and February yearly. Elections should be announced and parties allowed to register and start campaigning 1 week prior. There should be allowed one day after the election date to count the votes and declare the winner, and a day after that to form the parliament. Elections requirements are paused in a state of martial law (See [military & defence](military-and-defence.md)).
 
 There are 2 separate elections at each election time: **Election for Parliament** and **Election for Prime Minister**.
 
 ### Election for Parliament
 
-This vote is a standard vote, where voters pick one option. The percentage of the vote is applied as close as possible to the seats. So, if one party got 50% of the vote, they would get 50% of the seats, as accurately as possible. Only parties are allowed to run in the election for parliament. The seats won by a party are to be occupied by someone from the party, that the party appoints, who lasts the entire term in that seat until a new parliament is formed (unless they quit, which means the seat remains vacant and votes don't consider that seat).
+Parliament is comprised of seats explained in [parliament & PM](parliament-and-pm.md). The citizens of the riding a seat represents elects a candidate for their seat in a ranked choice poll. If there is no voting population in a specific riding, that seat is declared vacant and it will vote “vacant” in all parliamentary votes, to be treated as an abstention.
 
-Each election for Parliament, the number of seats should be recalculated by the monarch. There can be no less than 2, and should reflect the amount of representatives available to hold the seats and the percentages of the vote, to ensure that the seats match best the percentages. The result of the calculation can be same as the last, as long as it works properly to the results of the election as if it were recalculated.
+One person can run for no more than 2 seats. They do not have to be a citizen within that riding. Any candidate can be representing a registered political party. A political party cannot have more than 1 of its candidates running in a riding at a time. A candidate does not have to represent a political party (they can run as an independent).
+
+Elected Members of Parliament last the entire term until a new election is called. If an MP resigns during the term, their seat is then considered vacant as per [parliament & PM](parliament-and-pm.md).
+
+**Political Parties**
+Political parties, which can run its candidates in multiple ridings, can be registered with the [ID of Elections](departments/id-of-elections.md) (as do all candidates). There will usually be an option to do so when elections become closer in time.
 
 ### Election for Prime Minister
 
 This vote is a ranked choice vote. After calculations of the vote, the winner is declared the PM. Only individuals are allowed to run for Prime Minister, but, in addition to running for or holding the role of PM, they can be:
 
-* aligned with a party (good practice)
-* part of a party
-* part of a party and holding a seat in parliament
-* part of a party and in line to hold a seat in parliament if the right conditions are met
+- aligned with a party
+- otherwise part of a party
+- holding or running to hold a seat in parliament simultaneously
 
-***
+---
 
-The Prime Minister can call an election at any time (without vote), but it does not change or cancel the default election dates. This means an election can be called by the PM in July, but there would still be an election in August. There is no way to override this.
+The Prime Minister can call an election at any time (without vote), but it does not change or cancel the default election dates. This means an election can be called by the PM in July, but there would still be an election in August. Elections requirements are paused in a state of martial law (See [military & defence](military-and-defence.md)).
 
 If the Prime Minister dies with proof while in office, an election is called for both Prime Minister and the Parliament.
 
-Anyone participating in any election or Parliament needs to have Saheok citizenship.
+Anyone participating in any election (whether running or voting) needs to have Saheok citizenship.
