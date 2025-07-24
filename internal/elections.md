@@ -21,7 +21,7 @@ Elected Members of Parliament last the entire term until a new election is calle
 
 **Political Parties**
 
-Political parties, which can run its candidates in multiple ridings, can be registered with the [ID of Elections](departments/id-of-elections.md) (as do all candidates). There will usually be an option to do so when elections become closer in time.
+Political parties, which can run its candidates in multiple ridings, will be registered with the [ID of Elections](departments/id-of-elections.md) (as do all candidates). There will usually be an option to do so when elections become closer in time.
 
 ### Election for Prime Minister
 
