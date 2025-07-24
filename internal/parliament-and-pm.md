@@ -15,13 +15,13 @@ The seats are as follows: († Department-locked, [ID of Elections](id-of-electi
 6. Europa - *Represents all citizens in Europe*
 7. Other - *Represents other citizens that aren’t accounted for in any other group*
 
-Other details can be found in [elections](departments/elections.md).
+Other details can be found in [elections](elections.md).
 
 Parliament votes on bills using a first-past-the-post system (>50% majority wins), unless the law in question, specified in the lawbook, details another method to change it.
 
 ### Prime Minister
 
-The Prime Minister is the head of government, aside from the Monarch. They who occupy the role can simultaneously be a member of Parliament. Details on election of the PM is available in [elections](departments/elections.md).
+The Prime Minister is the head of government, aside from the Monarch. They who occupy the role can simultaneously be a member of Parliament. Details on election of the PM is available in [elections](elections.md).
 
 **Powers and Responsibilities of the Prime Minister:**
 
