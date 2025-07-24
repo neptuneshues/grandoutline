@@ -4,7 +4,7 @@ description: (*)Constitutional Laws
 
 # Parliament and PM
 
-The Saheok parliament consists of 7 seats that represent different groups of people. Each seat should be occupied by a member of parliament elected by that group of people. If a seat is vacant as a result of zero voting population, it votes “vacant” in all parliamentary votes, which is treated as an abstention.
+The Saheok parliament consists of 7 seats that represent different groups of people (ridings). Each seat should be occupied by a member of parliament elected by that riding. If a seat is vacant as a result of zero voting population, it votes “vacant” in all parliamentary votes, which is treated as an abstention.
 
 The seats are as follows: († Department-locked, [ID of Elections](departments/id-of-elections.md))
 1. Lisgar 29 - *Represents citizens from Lisgar graduating in 2029*
