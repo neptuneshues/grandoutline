@@ -20,6 +20,7 @@ One person can run for no more than 2 seats. They do not have to be a citizen wi
 Elected Members of Parliament last the entire term until a new election is called. If an MP resigns during the term, their seat is then considered vacant as per [parliament & PM](parliament-and-pm.md).
 
 **Political Parties**
+
 Political parties, which can run its candidates in multiple ridings, can be registered with the [ID of Elections](departments/id-of-elections.md) (as do all candidates). There will usually be an option to do so when elections become closer in time.
 
 ### Election for Prime Minister
