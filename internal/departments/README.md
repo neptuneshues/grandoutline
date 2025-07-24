@@ -33,11 +33,15 @@ Department members are appointed by the IDSD (Indepdendent Department of Saheok 
 
 An example of an RD would be the RDBS (Regulatory Department of Border Security).
 
+### Monarchial Department
+
+Monarchial departments are entirely governed by the Monarch.
+
 ***
 
 Departments can organize themselves however they'd like, and so can have departments within itself.
 
-Any department can also include laws that they cannot edit. They therefore act as a regulator for those laws.
+Any department can also be assigned laws marked as "department-overseen". They therefore act as a regulator for those laws, despite their departmental status.
 
 A department can be created by the PM, and they can select which type it is. However, the CB (Court of Balance) can override the type if they deem the PM to be overstepping their power.
 
