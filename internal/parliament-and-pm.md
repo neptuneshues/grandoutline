@@ -6,7 +6,7 @@ description: (*)Constitutional Laws
 
 The Saheok parliament consists of 7 seats that represent different groups of people. Each seat should be occupied by a member of parliament elected by that group of people. If a seat is vacant as a result of zero voting population, it votes “vacant” in all parliamentary votes, which is treated as an abstention.
 
-The seats are as follows: († Department-locked, [ID of Elections](id-of-elections.md))
+The seats are as follows: († Department-locked, [ID of Elections](departments/id-of-elections.md))
 1. Lisgar 29 - *Represents citizens from Lisgar graduating in 2029*
 2. Lisgar 28 - *Represents citizens from Lisgar graduating in 2028*
 3. Lisgar 27 - *Represents citizens from Lisgar graduating in 2027*
@@ -33,7 +33,7 @@ The Prime Minister is the head of government, aside from the Monarch. They who o
 3. **Foreign Policy:**
     - Formulate and oversee the implementation of Sahoki’s foreign policy.
 4. **Appointing Leaders:**
-    - Appoint leaders of directorial departments to manage various sectors such as finance, defence, education, and health. ([departments](departments/readme.md))
+    - Appoint leaders of directorial departments to manage various sectors such as finance, defence, education, and health. ([departments](departments/README.md))
 5. **Parliamentary Functions:**
     - Break tie votes in parliament to ensure decisions can be made.
 6. **Public Communication:**
